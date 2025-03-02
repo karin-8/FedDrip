@@ -1,4 +1,4 @@
-# FedDrip: Federated Learning with Diffusion-Generated Synthetic Data [paper](https://ieeexplore.ieee.org/document/10824802).
+# FedDrip: Federated Learning with Diffusion-Generated Synthetic Image [paper](https://ieeexplore.ieee.org/document/10824802).
 
 ## Overview
 
