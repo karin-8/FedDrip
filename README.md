@@ -92,10 +92,6 @@ We welcome contributions! To contribute:
 4. Push to your branch (`git push origin feature-name`).
 5. Create a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Citation
 If you use FedDrip in your research, please cite our paper:
 
