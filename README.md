@@ -1,8 +1,8 @@
-# FedDrip: Federated Learning with Diffusion-Generated Synthetic Image [paper](https://ieeexplore.ieee.org/document/10824802).
+# FedDrip: Federated Learning with Diffusion-Generated Synthetic Image
 
 ## Overview
 
-**FedDrip** is a novel federated learning (FL) framework designed to enhance model performance in non-IID environments by incorporating **diffusion-generated synthetic data** and **knowledge distillation**. This approach improves model generalization and robustness while preserving data privacy.
+**FedDrip** is a novel federated learning (FL) framework designed to enhance model performance in non-IID environments by incorporating **diffusion-generated synthetic data** and **knowledge distillation**. This approach improves model generalization and robustness while preserving data privacy. [Paper](https://ieeexplore.ieee.org/document/10824802).
 
 Federated learning is essential for privacy-sensitive domains like healthcare, where data cannot be shared across institutions. However, non-IID data distributions and data scarcity pose significant challenges. FedDrip mitigates these issues by introducing a **pseudo-site** that leverages diffusion models to generate synthetic data, acting as a virtual client in the FL process.
 
