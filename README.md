@@ -1,4 +1,4 @@
-# FedDrip: Federated Learning with Diffusion-Generated Synthetic Data
+# FedDrip: Federated Learning with Diffusion-Generated Synthetic Data [paper](https://ieeexplore.ieee.org/document/10824802).
 
 ## Overview
 
@@ -111,4 +111,4 @@ If you use FedDrip in your research, please cite our paper:
 ## Acknowledgments
 This research was funded by the **Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University**, under the **Chula Computer Engineering Graduate Scholarship**.
 
-For more details, refer to our [paper](https://github.com/karin-8/FedDrip/blob/main/paper.pdf).
+For more details, refer to our [paper](https://ieeexplore.ieee.org/document/10824802).
