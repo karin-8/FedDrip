@@ -1,0 +1,23 @@
+{
+    "seed": 42,
+    "batch_size": 16,
+    "img_size": 512,
+    "num_inference_steps":20,
+    "num_workers":0,
+    "base_lr": 2.5e-05,
+    "local_eval_freq": 1,
+    "local_eval_sample_frac_loss": 1,
+    "local_eval_sample_fid": 16,
+    "scale_factor": 0.3,
+    "config_file_ldm": "./module_1/models/unet/ldm_v0.yaml",
+    "config_file_aekl": "./module_1/models/vae/aekl_v0.yaml",
+    "aekl_uri": "./module_1/models/vae/aekl.pth",
+    "ldm_checkpoint_path": "./module_1/models/unet/ldm.pth",
+    "text_encoder_folder": "./module_1/models",
+    "tokenizer_folder": "./module_1/models",
+    "prompt_path": "./module_1/prompts/full.json",
+    "device": "cuda",
+    "local_eval_mode":"loss",
+    "patience":0,
+    "train_sample_frac": 1
+}

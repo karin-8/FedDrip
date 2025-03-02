@@ -1,0 +1,19 @@
+{
+    "aekl_uri": "./module_1/models/vae/aekl.pth",
+    "diffusion_path": "./module_1/models/unet/ldm.pth",
+    "tokenizer_folder": "./module_1/models",
+    "text_encoder_folder": "./module_1/models",
+    "config_file_aekl": "./module_1/models/vae/aekl_v0.yaml",
+    "config_file_ldm": "./module_1/models/unet/ldm_v0.yaml",
+    "eval_prompt_path": "./module_1/prompts/kw.json",
+    "ref_data_path":"/karin/project/fdl/data",
+    "guidance_scale": 7.0,
+    "batch_size": 8,
+    "x_size": 64,
+    "y_size": 64,
+    "scale_factor": 0.3,
+    "num_inference_steps": 20,
+    "prompt": "",
+    "device": "cuda",
+    "seed": 102
+}

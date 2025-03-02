@@ -1,0 +1,18 @@
+{
+    "seed":42,
+    "project":"LDM_FL",
+    "work_dir":"module_1/run",
+    "split_csv_path":"splits",
+    "config_file_aekl": "./module_1/models/vae/aekl_v0.yaml",
+    "num_clients":6,
+    "parallel_clients":1,
+    "start_round":1,
+    "fl_rounds":10,
+    "eval_every":1,
+    "global_eval_mode":"fid",
+    "global_eval_sample_frac_loss": 0.1,
+    "global_eval_sample_fid": 1000,
+    "num_epochs":10000,
+    "num_steps":1000,
+    "device":"cuda"
+}
